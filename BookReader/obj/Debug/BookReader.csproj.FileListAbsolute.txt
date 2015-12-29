@@ -1,0 +1,138 @@
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\BookReader.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\BookReader.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\BookReader.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\WebGrease.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Optimization.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Antlr3.Runtime.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\obj\Debug\BookReader.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\obj\Debug\BookReader.dll
+c:\users\admin\documents\visual studio 2015\Projects\BookReader\BookReader\obj\Debug\BookReader.pdb
+L:\BookReader\BookReader\bin\roslyn\csc.exe
+L:\BookReader\BookReader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\BookReader\BookReader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\BookReader\BookReader\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\BookReader\BookReader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\BookReader\BookReader\bin\roslyn\System.Collections.Immutable.dll
+L:\BookReader\BookReader\bin\roslyn\System.Reflection.Metadata.dll
+L:\BookReader\BookReader\bin\roslyn\vbc.exe
+L:\BookReader\BookReader\bin\roslyn\VBCSCompiler.exe
+L:\BookReader\BookReader\bin\roslyn\VBCSCompiler.exe.config
+L:\BookReader\BookReader\bin\BookReader.dll.config
+L:\BookReader\BookReader\bin\BookReader.dll
+L:\BookReader\BookReader\bin\BookReader.pdb
+L:\BookReader\BookReader\bin\Antlr3.Runtime.dll
+L:\BookReader\BookReader\bin\EntityFramework.dll
+L:\BookReader\BookReader\bin\EntityFramework.SqlServer.dll
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Core.dll
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\BookReader\BookReader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Cookies.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Facebook.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Google.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.OAuth.dll
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Twitter.dll
+L:\BookReader\BookReader\bin\Microsoft.Web.Infrastructure.dll
+L:\BookReader\BookReader\bin\Newtonsoft.Json.dll
+L:\BookReader\BookReader\bin\Owin.dll
+L:\BookReader\BookReader\bin\System.Web.Helpers.dll
+L:\BookReader\BookReader\bin\System.Web.Mvc.dll
+L:\BookReader\BookReader\bin\System.Web.Optimization.dll
+L:\BookReader\BookReader\bin\System.Web.Razor.dll
+L:\BookReader\BookReader\bin\System.Web.WebPages.Deployment.dll
+L:\BookReader\BookReader\bin\System.Web.WebPages.dll
+L:\BookReader\BookReader\bin\System.Web.WebPages.Razor.dll
+L:\BookReader\BookReader\bin\WebGrease.dll
+L:\BookReader\BookReader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\BookReader\BookReader\bin\System.Web.Helpers.xml
+L:\BookReader\BookReader\bin\System.Web.Mvc.xml
+L:\BookReader\BookReader\bin\System.Web.Optimization.xml
+L:\BookReader\BookReader\bin\System.Web.Razor.xml
+L:\BookReader\BookReader\bin\System.Web.WebPages.xml
+L:\BookReader\BookReader\bin\System.Web.WebPages.Deployment.xml
+L:\BookReader\BookReader\bin\System.Web.WebPages.Razor.xml
+L:\BookReader\BookReader\bin\Antlr3.Runtime.pdb
+L:\BookReader\BookReader\bin\Newtonsoft.Json.xml
+L:\BookReader\BookReader\bin\EntityFramework.xml
+L:\BookReader\BookReader\bin\EntityFramework.SqlServer.xml
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Core.xml
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\BookReader\BookReader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Facebook.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Cookies.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.OAuth.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Google.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.Twitter.xml
+L:\BookReader\BookReader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\BookReader\BookReader\obj\Debug\BookReader.csprojResolveAssemblyReference.cache
+L:\BookReader\BookReader\obj\Debug\BookReader.dll
+L:\BookReader\BookReader\obj\Debug\BookReader.pdb

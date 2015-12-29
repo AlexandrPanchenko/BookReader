@@ -1,0 +1,84 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+
+    <div class="main">
+        <div class="header">
+            <div class="header_resize">
+                <div class="logo">
+                    <h1><a href="@Url.Action("Index")">Books Reader<span></span> <small>by Nastya Migal</small></a></h1>
+                   
+</div>
+                <div class="menu_nav">
+                    <ul>
+                        <li class="active"><a href="@Url.Action("Index")"><span>Home Page</span></a></li>
+                        <li><a href="@Url.Action("Admin","Home")"><span>Admin</span></a></li>
+                        <li><a href="@Url.Action("About","Home")"><span>About Us</span></a></li>
+                        <li><a href="#"><span>Chat</span></a></li>
+                        <li><a href="@Url.Action("Contact","Home")"><span>Contact Us</span></a></li>
+                        @*<li>@Html.Partial("_LoginPartial")</li>*@
+                        
+                    </ul>
+                </div>
+                <div class="clr"></div>
+                <div class="slider">
+                    <div id="coin-slider"><a href="#"><img src="~/Content/Images/slide1.jpg" width="935" height="307" alt="" /></a> <a href="#"><img src="~/Content/Images/slide2.jpg" width="935" height="307" alt="" /></a> <a href="#"><img src="~/Content/Images/slide3.jpg" width="935" height="307" alt="" /></a></div>
+                    <div class="clr"></div>
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+
+            @RenderBody()
+            <hr />
+            <div class="fbg">
+                <div class="fbg_resize">
+                    <div class="col c1">
+                        <h2><span>Image</span> Gallery</h2>
+                        <a href="#"><img src="~/Content/Images/gal1.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="~/Content/Images/gal2.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="~/Content/Images/gal3.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="~/Content/Images/gal4.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="~/Content/Images/gal5.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="~/Content/Images/gal6.jpg" width="75" height="75" alt="" class="gal" /></a>
+                    </div>
+                    <div class="col c2">
+                        <h2><span>Services</span> Overview</h2>
+                        <p>Curabitur sed urna id nunc pulvinar semper. Nunc sit amet tortor sit amet lacus sagittis posuere cursus vitae nunc.Etiam venenatis, turpis at eleifend porta, nisl nulla bibendum justo.</p>
+                        <ul class="fbg_ul">
+                            <li><a href="#">Lorem ipsum dolor labore et dolore.</a></li>
+                            <li><a href="#">Excepteur officia deserunt.</a></li>
+                            <li><a href="#">Integer tellus ipsum tempor sed.</a></li>
+                        </ul>
+                    </div>
+                    <div class="col c3">
+                        <h2><span>Contact</span> Us</h2>
+                        <p>Nullam quam lorem, tristique non vestibulum nec, consectetur in risus. Aliquam a quam vel leo gravida gravida eu porttitor dui.</p>
+                        <p class="contact_info">
+                            <span>Address:</span> 1458 TemplateAccess, USA<br />
+                            <span>Telephone:</span> +123-1234-5678<br />
+                            <span>FAX:</span> +458-4578<br />
+                            <span>Others:</span> +301 - 0125 - 01258<br />
+                            <span>E-mail:</span> <a href="#">mail@yoursitename.com</a>
+                        </p>
+                    </div>
+                    <div class="clr"></div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer_resize">
+                    <p class="lf">Copyright &copy; <a href="#">Domain Name</a>. All Rights Reserved</p>
+                    <div style="clear:both;"></div>
+                </div>
+            </div>
+ 
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

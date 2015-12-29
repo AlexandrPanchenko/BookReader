@@ -1,0 +1,71 @@
+﻿@using BookReader.Models
+@model IEnumerable<BookReader.Models.Book> 
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="content">
+    <div class="content_resize">
+        <div class="mainbar">
+            @foreach (var item in Model)
+            {
+                <div class="article">
+                    <h3>
+                        @foreach (var auth in item.Authors)
+                        { 
+                             <a href="@Url.Action("AuthorDetail", new {id=auth.AuthorId})">@auth.Name @auth.Surname</a>
+                        }
+                    </h3>
+
+                    <h2><span>@item.Name</span> @item.Year</h2>
+                    <p class="infopost">Posted on <span class="date">@item.CreateTime</span> by <a href="#">Admin</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">@item.language</a>, <a href="#">язык</a> <a href="#" class="com"><span>@item.Rating</span></a></p>
+                    <div class="clr"></div>
+                    <div class="img"><img src=@item.ImagePath width="157" height="213" alt="" class="fl" /></div>
+                    <div class="post_content">
+                        <p>@item.Description</p>
+                        <p class="spec"><a href="@Url.Action("DownloadFile", new {id=item.BookId})" class="rm">Читать &raquo;</a></p>
+                    </div>
+                    <div class="clr"></div>
+                </div>
+            }
+           
+           
+            <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>
+        </div>
+        <div class="sidebar">
+
+            <div class="clr"></div>
+            <div class="g1">
+                <div class="g2">
+                    <div class="gadget">
+                        <h2 class="star"><span>Авторы</span></h2>
+                        <div class="clr"></div>
+                        <ul class="sb_menu">
+                            @foreach (Author c in ViewBag.Authors)
+                            {
+                                <li><a href="@Url.Action("Index", new {author=c.Surname})">@c.Name&nbsp @c.Surname </a></li>
+                            }
+                           
+                          
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="g1">
+                <div class="g2">
+                    <div class="gadget">
+                        <h2 class="star"><span>Категории</span></h2>
+                        <div class="clr"></div>
+                        <ul class="ex_menu">
+                            @foreach (Category c in ViewBag.Categories)
+                            {
+                                <li><a href="@Url.Action("Index", new {category=c.Name})">@c.Name</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clr"></div>
+    </div>
+</div>

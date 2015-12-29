@@ -1,0 +1,25 @@
+﻿@model BookReader.Models.Author
+@{
+    ViewBag.Title = "AuthorDetail";
+}
+<div class="content">
+    <div class="content_resize">
+        <div class="mainbar">
+            <div class="article">
+
+                <h2><span>@Model.Name</span> @Model.Surname</h2>
+                <div class="clr"></div>
+                <div class="img"><img src=@Model.ImagePath width="157" height="213" alt="" class="fl" /></div>
+                <div class="post_content">
+                    <p>@Model.Description</p>
+                    <p class="spec"><a href="#" class="rm">Назад &raquo;</a></p>
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+        <div class="sidebar">
+
+        </div>
+        <div class="clr"></div>
+       </div>
+</div>
